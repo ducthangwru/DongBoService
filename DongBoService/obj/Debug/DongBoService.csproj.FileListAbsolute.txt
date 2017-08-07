@@ -1,0 +1,8 @@
+E:\VisualStudio2015\DongBoService\DongBoService\bin\DongBoService.dll.config
+E:\VisualStudio2015\DongBoService\DongBoService\bin\DongBoService.dll
+E:\VisualStudio2015\DongBoService\DongBoService\bin\DongBoService.pdb
+E:\VisualStudio2015\DongBoService\DongBoService\bin\log4net.dll
+E:\VisualStudio2015\DongBoService\DongBoService\bin\log4net.xml
+E:\VisualStudio2015\DongBoService\DongBoService\obj\Debug\DongBoService.dll
+E:\VisualStudio2015\DongBoService\DongBoService\obj\Debug\DongBoService.pdb
+E:\VisualStudio2015\DongBoService\DongBoService\obj\Debug\DongBoService.csprojResolveAssemblyReference.cache
