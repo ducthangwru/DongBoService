@@ -76,5 +76,20 @@ namespace DongBoService
         {
             return DongBoDB.DongBoXa();
         }
+
+        public bool DongBoStatus()
+        {
+            return DongBoDB.DongBoStatus();
+        }
+
+        public bool DongBoVungQuanLy()
+        {
+            return DongBoDB.DongBoVungQuanLy();
+        }
+
+        public bool DongBoDanhMucKhac()
+        {
+            return DongBoDB.DongBoDanhMucKhac();
+        }
     }
 }

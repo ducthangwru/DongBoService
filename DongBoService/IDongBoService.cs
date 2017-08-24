@@ -49,5 +49,14 @@ namespace DongBoService
 
         [OperationContract]
         bool DongBoPhiKM();
+
+        [OperationContract]
+        bool DongBoStatus();
+
+        [OperationContract]
+        bool DongBoVungQuanLy();
+
+        [OperationContract]
+        bool DongBoDanhMucKhac();
     }
 }
